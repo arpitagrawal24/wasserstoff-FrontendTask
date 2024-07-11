@@ -21,7 +21,7 @@ const sections = [
 ];
 
 const gettingStarted = [
-  "Opening the IDE: Explain how to launch your IDE.",
+  "Opening the IDE: Explain how to   launch your IDE.",
   "Interface Overview: Describe the different components of the IDE interface (e.g., editor, sidebar, menu bar).",
   "Creating a New File: Show how to create a new file in the IDE.",
 ];
